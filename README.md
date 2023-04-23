@@ -14,3 +14,4 @@ Materials for the data-driven engineering course at ULB.
 - [Principal component analysis (PCA)](PCA/)
 - [Clustering and local PCA (LPCA)](clustering-and-local-PCA/)
 - [Least-squares, Lasso, Ridge, PC regression](LS-Lasso-Ridge-PCR/)
+- [Neural networks](neural-networks/)
