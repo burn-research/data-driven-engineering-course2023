@@ -15,3 +15,7 @@ Materials for the data-driven engineering course at ULB.
 - [Clustering and local PCA (LPCA)](clustering-and-local-PCA/)
 - [Least-squares, Lasso, Ridge, PC regression](LS-Lasso-Ridge-PCR/)
 - [Neural networks](neural-networks/)
+
+## Projects
+- [Project on forecasting](assignements/forecasting/)
+- [Project on modal analysis](assignements/modal-analysis/)
