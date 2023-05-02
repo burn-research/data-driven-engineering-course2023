@@ -17,5 +17,5 @@ Materials for the data-driven engineering course at ULB.
 - [Neural networks](neural-networks/)
 
 ## Projects
-- [Project on forecasting](assignements/forecasting/)
-- [Project on modal analysis](assignements/modal-analysis/)
+- [Project on forecasting](assignments/forecasting/)
+- [Project on modal analysis](assignments/modal-analysis/)
