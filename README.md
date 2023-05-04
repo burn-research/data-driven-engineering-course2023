@@ -19,3 +19,4 @@ Materials for the data-driven engineering course at ULB.
 ## Projects
 - [Project on forecasting](assignments/forecasting/)
 - [Project on modal analysis](assignments/modal-analysis/)
+- [Project on t-SNE](assignments/t-SNE/)
